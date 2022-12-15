@@ -1,4 +1,4 @@
 # demo-repo
 
 
-demo for my first project using reactjs
+for my first project using reactjs and other frontend languages.
